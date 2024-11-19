@@ -5,7 +5,7 @@
       <router-link to="/types">Типы продуктов</router-link> |
       <router-link to="/statuses">Статусы продуктов</router-link>
     </nav>
-    <router-view />
+    <router-view/>
   </div>
 </template>
 
